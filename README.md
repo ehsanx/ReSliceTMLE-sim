@@ -82,7 +82,4 @@ Both figures are displayed in the R graphics device and can be saved using stand
 - The code is designed to work with the ReSliceTMLE package, which provides implementations of all TMLE variants
 - The script handles both the simulation run and the visualization in a single workflow
 
----
-## 📄 License
-TBD
 
