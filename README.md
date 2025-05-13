@@ -63,11 +63,11 @@ This script performs the entire workflow:
 
 The script produces two main figures:
 
-1. **Figure 3**: Comprehensive comparison of TMLE variants across multiple performance metrics
+1. **Figure**: Comprehensive comparison of TMLE variants across multiple performance metrics
    - Includes bias, coverage, MSE, and other key metrics
    - Presents results with confidence intervals
 
-2. **Figure 4**: Performance comparison of TMLE variants across increasing numbers of replicates
+2. **Figure**: Performance comparison of TMLE variants across increasing numbers of replicates
    - Shows how performance metrics converge with more replicates
    - Compares multiple TMLE variants against Vanilla TMLE reference
 

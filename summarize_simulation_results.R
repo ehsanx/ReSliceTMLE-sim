@@ -44,7 +44,7 @@ results <- run_multiple_tmle_variants(
 # Reproduce the plots in manuscript #
 #####################################
 
-## For Figure 3: Comprehensive comparison of TMLE variants across multiple performance metrics.
+## For Figure: Comprehensive comparison of TMLE variants across multiple performance metrics.
 
 # Map the method names
 method_mapping <- c(
@@ -162,7 +162,7 @@ final_plot <- plot_grid(
   rel_heights = c(0.05, 0.95)
 )
 
-## For Figure 4: Performance comparison of different TMLE variants across increasing numbers of replicates. 
+## For Figure: Performance comparison of different TMLE variants across increasing numbers of replicates. 
 
 # Function to prepare data for simsum analysis
 prepare_data_for_simsum <- function(data) {
